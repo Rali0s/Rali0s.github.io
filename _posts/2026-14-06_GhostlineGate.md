@@ -18,3 +18,5 @@ Packet shaping would be a difficult feat. I have a framework for this, however, 
 
 Job Applications submitted 42(2|3) - Interviews 0 - 9 Months ( Working Solo Now Baby! - This is OpenSource At The Moment )
 
+See Career Page - LLC ( Missing ) Shhhh...They do not know I code.
+
