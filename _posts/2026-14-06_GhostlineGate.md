@@ -16,3 +16,5 @@ Project Ghostline is centered around the premise of "Being Able To" intercept a 
 
 Packet shaping would be a difficult feat. I have a framework for this, however, we are not finished yet. Tomorrow will be a fun day.
 
+Job Applications submitted 419 - Interviews 0.
+
