@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GhostlineGate
-subtitle: Soul-Shaping;Shift-Making
+subtitle: Queue Editor In Progress
 cover-img: /assets/img/path-06.png
 thumbnail-img: /assets/img/path-06.png
 share-img: /assets/img/path-06.png
@@ -15,8 +15,4 @@ author: Rali0s
 Project Ghostline is centered around the premise of "Being Able To" intercept a Message between a Queue & Consumer of AMQ, RMQ, MQTT, AzureServiceBus and/or the like. It's placement would be past the DMZ, into the server forest and either On Premise or In Cloud, but on virtualized Servers that house the node(s) for the Queues and Consumers masters to allow data transit.
 
 Packet shaping would be a difficult feat. I have a framework for this, however, we are not finished yet. Tomorrow will be a fun day.
-
-Job Applications submitted 42(2|3) - Interviews 0 - 9 Months ( Working Solo Now Baby! - This is OpenSource At The Moment )
-
-See Career Page - LLC ( Missing ) Shhhh...They do not know I code.
 
