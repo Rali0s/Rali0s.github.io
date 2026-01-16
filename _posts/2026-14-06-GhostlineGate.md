@@ -2,9 +2,9 @@
 layout: post
 title: GhostlineGate
 subtitle: Queue Editor In Progress
-cover-img: /assets/img/path-06.png
-thumbnail-img: /assets/img/path-06.png
-share-img: /assets/img/path-06.png
+cover-img: /assets/img/path-07.png
+thumbnail-img: /assets/img/path-07.png
+share-img: /assets/img/path-07.png
 tags: [devops, development, AMQ]
 author: Rali0s
 ---
