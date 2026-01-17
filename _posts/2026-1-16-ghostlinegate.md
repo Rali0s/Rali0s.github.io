@@ -10,7 +10,9 @@ author: Rali0s
 ---
 >“Recall”
 >
->https://github.com/Rali0s/ghostline-gate
+
+## Repo
+https://github.com/Rali0s/ghostline-gate
 
 Project Ghostline is centered around the premise of "Being Able To" intercept a Message between a Queue & Consumer of AMQ, RMQ, MQTT, AzureServiceBus and/or the like. It's placement would be past the DMZ, into the server forest and either On Premise or In Cloud, but on virtualized Servers that house the node(s) for the Queues and Consumers masters to allow data transit.
 
