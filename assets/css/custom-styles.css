@@ -2,3 +2,8 @@
 .navbar-custom {
   --hover-col: #F0D2AE;
 }
+
+/* Project visuals follow the existing content column without cropping. */
+.project-image { margin: 1.5rem 0; }
+.project-image img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+.project-image figcaption { margin-top: 0.5rem; color: #665547; font-size: 0.875rem; line-height: 1.5; }

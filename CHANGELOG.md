@@ -1,3 +1,8 @@
+## Local project gallery — 2026-09-07
+
+- Added six existing screenshots and project artworks to Projects, with descriptive alt text, captions, and full-size image links.
+- Kept the existing Beautiful Jekyll content column and distinguished development screenshots from concept and identity artwork.
+
 ## Local site updates — 2026-09-07
 
 - Added Legion OS and OmniX summaries and release notes to Projects and the main project roundup.
