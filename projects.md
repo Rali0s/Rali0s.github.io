@@ -5,7 +5,7 @@ subtitle: Work in progress, release milestones, and field testing
 permalink: /projects/
 ---
 
-A working record of my projects, starting with the current macOS work. Statuses below reflect the September 7, 2026 review.
+A working record of my projects, covering macOS work and the operating-system projects. Statuses below reflect the September 7, 2026 review.
 
 ## Martial Arts — Hikari Gojutsu
 
@@ -42,6 +42,24 @@ Current development includes a unified technician operations desk, separate cust
 When completed, Recursion aims to coordinate evidence across Microsoft identity, tenant, and endpoint systems; automate approved routine fixes; verify service restoration; and hand exceptions to engineers or security analysts with a complete evidence package. The first planned end-to-end workflow addresses Microsoft Entra MFA failures and account recovery. Broader plans include governed infrastructure provisioning and patch workflows.
 
 The potential is a practical operations center for a small managed service provider: less repetitive triage, clearer ownership, and reusable diagnostic workflows that improve as reviewed exceptions become new test cases. That outcome depends on validated integrations, tenant isolation, approval controls, rollback, and reliable recovery checks.
+
+## Legion OS
+
+**Production Release · Being replaced by ROS**
+
+Legion OS is an i3-first security workstation for authorized assessment, reverse engineering, laboratory work, and evidence management. Its foundation brings together boot and recovery tools, an offline evidence workspace, and governed workflows for defensive engineering.
+
+Legion OS has reached production release. Its successor, **ROS**, is currently **In Development on the Windows desktop**. ROS is taking the project toward a modular workstation, bringing research, local workspace tools, and security operations into a more integrated environment. The replacement is in progress; ROS is not yet the production successor.
+
+## OmniX
+
+**v1 Shipped · Continued Development**
+
+OmniX is a local-first C++ analyst console and deterministic TZE runtime for investigation, evidence analysis, and native tool orchestration. It organizes local evidence into cases, incidents, reports, and persistent run history, with tools to replay runs, compare results, and explain changes.
+
+The release record identifies v1 as shipped, with v2 focused on deterministic TZE completion and v3 providing an explicitly enabled, guarded Ollama/OpenAI-assisted shell. Native tool discovery and execution, packet inspection, and operational intelligence workflows extend the console while keeping deterministic policy in control.
+
+The documented Legion integration packages OmniX as an optional terminal application invoked by the operator. Its core workflows remain useful offline without a model service running.
 
 ## Project status key
 

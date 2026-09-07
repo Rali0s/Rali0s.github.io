@@ -24,4 +24,18 @@ This blog is a record of that ongoing work: hobby projects, experiments, technic
 
 The projects span different interests, but they share a practical motivation: learn by building, understand how the pieces fit together, and carry those lessons back into better systems work.
 
+### Toolset
+
+- **ChatGPT Codex Pro** — Public Model Training: On 😎
+
+### My hardware
+
+My current hardware includes:
+
+- **MacBook Pro (2020)** — Apple M1, 8 GB RAM, macOS.
+- **ASUS ZenBook (2022)** — 16 GB RAM, Windows 11 Pro.
+- **Orange Pi** — 2 GB RAM.
+- **Raspberry Pi** — 1 GB RAM.
+- **Orange Pi Zero 2 W**.
+
 [Explore my projects]({{ '/projects/' | relative_url }}).

@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Project changelog: macOS workbench"
-subtitle: "Hikari Gojutsu, The Harvest, WayKeeper™, and Recursive HelpDesk"
+title: "Project changelog: workbench and releases"
+subtitle: "Hikari Gojutsu, The Harvest, WayKeeper™, Recursive HelpDesk, Legion OS, and OmniX"
 date: 2026-09-07 12:00:00 -0400
 tags: [projects, changelog, macOS]
-excerpt: "macOS project updates: Recursive HelpDesk is In DevTesting, Martial Arts is in Pre-Production, The Harvest is in Pre-Production and Testing QA, and WayKeeper™ is in Production with Hardware QA underway."
+excerpt: "Legion OS is a production release with ROS in development as its successor; OmniX v1 has shipped. Other project updates: Recursive HelpDesk is In DevTesting, Martial Arts is in Pre-Production, The Harvest is in Pre-Production and Testing QA, and WayKeeper™ is in Production with Hardware QA underway."
 ---
 
-The first macOS project roundup brings four ongoing builds into one public work log: Martial Arts is in Pre-Production, The Harvest is in Pre-Production and Testing QA, WayKeeper™ is in Production with Hardware QA underway, and Recursive HelpDesk is In DevTesting.
+This project roundup brings development updates and release milestones into one public work log: Martial Arts is in Pre-Production, The Harvest is in Pre-Production and Testing QA, WayKeeper™ is in Production with Hardware QA underway, and Recursive HelpDesk is In DevTesting.
+
+Legion OS and OmniX also join the release record below, with ROS noted as the developing successor to Legion.
 
 ## Martial Arts — Pre-Production
 
@@ -53,5 +55,25 @@ Recursion is being developed as an IT support operations platform that connects 
 - **DevTesting focus:** simulated evidence and lab workflows, with live integrations and privileged actions gated by tenant isolation, approval, audit, and rollback validation.
 
 The completed platform is intended to reduce repetitive triage for a managed service provider, verify that fixes restore service, and deliver well-documented exceptions to the right engineer or security analyst. The current prototype demonstrates the experience and developing backend; these production capabilities remain the delivery goal.
+
+## Legion OS — Production Release
+
+Legion OS is an i3-first security workstation built around authorized assessment, laboratory workflows, offline evidence handling, and boot and recovery foundations.
+
+- **Release status:** Production Release.
+- **Delivered foundation:** the operator desktop, boot and recovery tooling, and governed local workflow runtime.
+- **Transition:** Legion OS is being replaced by ROS, currently In Development on the Windows desktop.
+- **Successor direction:** a modular workstation combining research, local workspace tools, and security operations. The transition remains underway.
+
+## OmniX — v1 Shipped
+
+OmniX brings local evidence analysis and repeatable tool workflows into a C++ analyst console powered by its deterministic TZE runtime.
+
+- **Released:** v1, recorded as shipped in the project documentation.
+- **Core capabilities:** evidence ingestion and analysis, cases and incidents, reports, persistent run history, replay, and result comparison.
+- **Development tracks:** deterministic TZE completion in v2 and explicitly enabled, guarded Ollama/OpenAI shell assistance in v3.
+- **Integration:** optional operator-invoked terminal tooling for Legion OS, with an offline core that does not require a model service.
+
+These entries record release status and current capabilities; September 7 is the roundup date, not an assertion of the original release dates.
 
 [View all project summaries]({{ '/projects/' | relative_url }}).
