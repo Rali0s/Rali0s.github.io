@@ -1,3 +1,13 @@
+## Parlay site — 2026-09-07
+
+- Added the macOS project roundup and Projects page, including Recursive HelpDesk as **In DevTesting**.
+- Documented Recursive HelpDesk's technician operations desk, Technician Salt backend MVP, customer-tree navigation, RMM, and SaltCLI views.
+- Described its intended completed role: evidence-led IT support, authorized remediation, verified recovery, and documented escalation to engineers or security analysts. Live integrations remain under development.
+- Included Recursive HelpDesk in the main post subtitle and homepage excerpt.
+- Applied a warm beige palette with a muted deep-red navigation bar using the existing Beautiful Jekyll theme.
+
+## Beautiful Jekyll theme history
+
 ## Unreleased version
 - BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152)
 - BREAKING CHANGE: `google-scholar` social network link no longer requires the prefix `citations?user=`; if you previously set this parameter, it needs to be updated (#1189)

@@ -21,10 +21,11 @@ author: Rali0s
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://polyxc4.eth"
+  Author's home: "https://rali0s.github.io"
 
 ################
 # --- Logo --- #
@@ -136,21 +137,23 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-# Core
-link-col: "#D11A2A"
-hover-col: "#FF2E44"
-footer-col: "#121212"
-link-col: "#7C0A14"
-hover-col: "#5A060E"
-navbar-col: "#EFEFEF"
+# Red accents on warm beige, using Beautiful Jekyll's built-in colour settings.
+page-col: "#F5EFDF"
+text-col: "#3B302A"
 link-col: "#A4161A"
 hover-col: "#6A040F"
-footer-col: "#222222"
+navbar-col: "#803B3B"
+navbar-text-col: "#F5EFDF"
+navbar-border-col: "#632B2B"
+footer-col: "#E8DCC5"
+footer-text-col: "#665547"
+footer-link-col: "#A4161A"
+footer-hover-col: "#6A040F"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/bgimage.png"
+#navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
@@ -158,8 +161,8 @@ navbar-img: "/assets/img/bgimage.png"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:

@@ -1,0 +1,4 @@
+/* Keep navigation hover and focus readable on the earthy red background. */
+.navbar-custom {
+  --hover-col: #F0D2AE;
+}
